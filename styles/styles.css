@@ -256,7 +256,7 @@ p.intro.mobile {
      margin: 1.5vh 0 1.5vh 0;
  }
 
- /*MID SECTION*/
+ /*MID SECTION FOR MOBILE*/
 
  .midsection img{
     height: 9.5%;
@@ -281,7 +281,7 @@ p.intro.mobile {
      font-size: 36px;
  }
 
- /*GUESTS SECTION*/
+ /*GUESTS SECTION FOR MOBILE*/
 
  .guests {
      display: flex;
@@ -297,7 +297,7 @@ p.intro.mobile {
      height: 100%;
  }
 
- /*SUBJECTS SECTION*/
+ /*SUBJECTS SECTION FOR MOBILE*/
 
  .subjects {
      display: flex;
@@ -319,7 +319,7 @@ p.intro.mobile {
      margin: 0.5vh 0 7vh 0;
  }
 
- /*NEWSLETTER SECTION*/
+ /*NEWSLETTER SECTION FOR MOBILE*/
 
  .newsletter {
     position: relative;
@@ -347,6 +347,27 @@ p.intro.mobile {
     font-size: 16px;
     padding: 4% 10%;
     margin: 0 2.5vh;
+}
+
+/*FOOTER SECTION FOR MOBILE*/
+
+footer .copyright {
+    font-family: 'IBM Plex Mono', Helvetica, sans-serif;
+    font-size: 14px;
+    color: #060A24;
+    line-height: 25px;
+    text-align: center;
+    margin: 2.5vh 0 0 0;
+}
+
+.footerIcons.container {
+    display: flex;
+    justify-content: center;
+}
+
+.footerIcons a {
+    margin: 2.5vh;
+    color: #060A24;
 }
 
 }
