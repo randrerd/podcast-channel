@@ -342,4 +342,11 @@ p.intro.mobile {
     margin: 7.5% 5%;
 }
 
+.newsletter button{
+    font-weight: 500;
+    font-size: 16px;
+    padding: 4% 10%;
+    margin: 0 2.5vh;
+}
+
 }
