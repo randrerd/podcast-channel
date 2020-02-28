@@ -180,8 +180,13 @@ ul.navbar {
 input.dropdown:checked ~ ul.navbar {
     display: flex;
     flex-direction: column;
+    align-self: center;
+    justify-content: center;
     background-color: #0000EC;
-    margin: 10px 0 0 0;
+    position: absolute;
+    margin: 30px 0 0 0;
+    height: 35%;
+    width: 100%;
 }
 
 input.dropdown:checked {
