@@ -104,6 +104,13 @@ p.intro {
     background-image: linear-gradient(#0000FF, #0000A3);
 }
 
+iframe {
+    width: 100%;
+    height: 232px;
+    border: 0;
+    background-color: transparent;
+}
+
 .episodesSection h2 {
     font-size: 36px;
     line-height: 42px;
