@@ -1,5 +1,22 @@
-# podcast-channel
-The landing page for a podcast show <br>
-This proyect is the first out of three from the Acamica Full Stack Dev bootcamp program.
-On this project the requirement was to only use HTML5 and CSS with no preprocessors.
-https://randrerd.github.io/podcast-channel/
+# Portafolio Personal
+Landing Page para un canal de podcasts. Este proyecto es parte del programa de Full Stack Web Development de Acámica en Buenos Aires, Argentina. <br>
+
+## Tecnologías y recursos utilizados:
+-   HTML
+-   CSS
+-   Git
+-   Metodología Mobile First 
+-   iFrames proveídos por Spotify
+
+
+----
+
+Landing Page for a podcast show. This project is part of Acámica's Full Stack Web Development bootcamp program in Buenos Aires, Argentina. <br>
+
+## Resources and technologies used on the project:
+
+-   HTML
+-   CSS
+-   Git
+-   Metodología Mobile First 
+-   iFrames from Spotify
