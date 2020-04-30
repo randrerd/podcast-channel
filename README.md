@@ -1,6 +1,8 @@
 # Portafolio Personal
 Landing Page para un canal de podcasts. Este proyecto es parte del programa de Full Stack Web Development de Acámica en Buenos Aires, Argentina. <br>
 
+[Live](https://raulroman.netlify.com)
+
 ## Tecnologías y recursos utilizados:
 -   HTML
 -   CSS
@@ -12,6 +14,8 @@ Landing Page para un canal de podcasts. Este proyecto es parte del programa de F
 ----
 
 Landing Page for a podcast show. This project is part of Acámica's Full Stack Web Development bootcamp program in Buenos Aires, Argentina. <br>
+
+[Live](https://raulroman.netlify.com)
 
 ## Resources and technologies used on the project:
 
