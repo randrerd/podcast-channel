@@ -1,5 +1,6 @@
-# Portafolio Personal
-[Live](https://randrerd.github.io/podcast-channel/) <br>
+### [Live Version](https://randrerd.github.io/podcast-channel/) <br>
+# Podcast Channel
+
 Landing Page para un canal de podcasts. Este proyecto es parte del programa de Full Stack Web Development de Acámica en Buenos Aires, Argentina. <br>
 
 
